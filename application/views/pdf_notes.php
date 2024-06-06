@@ -322,7 +322,7 @@
         output += '</tr>';
         $('#dynamic_field_ch_notes_update').append(output);
     }
-
+var r=2;
     function add_dynamic_input_field_n_update_dynamic(count_n, data) { // dynamic field add for the notes   
         var button = '';
 
